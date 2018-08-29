@@ -1,5 +1,7 @@
 # PLSA - Pan-Locus Sequence Analysis
 
+__UNDER DEVELOPMENT__ - setup will not work wihtout modification
+
 ## Description
 
 A Python script to perform MLSA on a much larger scale, using as many conserved genes as possible and repeated
@@ -9,7 +11,7 @@ random sampling to avoid bias
 
 This package utilises a variety of bionformatics tools and they must be built prior running setup
 
-Download and build the BLAST package from [NCBI](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/)
+Download and build the BLAST package from NCBI (ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/)
 
 If possible - use [gpu-blast](http://archimedes.cheme.cmu.edu/?q=gpublast) for increased search speed for the f_con module
 
