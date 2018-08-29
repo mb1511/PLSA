@@ -1,4 +1,4 @@
-# MMLSA Masive-Multiple Locus Sequence Analysis
+# PLSA - Pan-Locus Sequence Analysis
 
 ## Description
 
