@@ -35,10 +35,10 @@ Use the MEGA prototyper (included with MEGACC) to generate a make_tree.mao file;
 expected output and if suitable can be used directly. Make sure number of threads is set to 1 - allows to run 1 instance of
 MEGACC on each cpu core.
 
-	import mmlsa
+	import plsa
 	
 	if __name__ == '__main__':
-		mmlsa.run(proteome_directory, output_directory, blast_data_storage_directory)
+		plsa.run(proteome_directory, output_directory, blast_data_storage_directory)
 
 Proteome directory 	 = where the raw proteome files (.faa files usually) are kept
 
